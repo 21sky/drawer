@@ -66,7 +66,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-navigation", "virtual:12c93fd1e0d12809ba10d77755b16b5457e6b221bd3689a48801748b241b53ef73841761cd5643b08372db88203be426e150d7440df61346bb05c0a017270e4b#npm:4.4.4"],
             ["react-test-renderer", "virtual:12c93fd1e0d12809ba10d77755b16b5457e6b221bd3689a48801748b241b53ef73841761cd5643b08372db88203be426e150d7440df61346bb05c0a017270e4b#npm:16.8.6"],
             ["release-it", "npm:12.6.3"],
-            ["typescript", "patch:typescript@npm%3A3.9.10#builtin<compat/typescript>::version=3.9.10&hash=8133ad"]
+            ["typescript", "patch:typescript@npm%3A2.9.2#builtin<compat/typescript>::version=2.9.2&hash=8133ad"]
           ],
           "linkType": "SOFT",
         }]
@@ -13587,7 +13587,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-navigation", "virtual:12c93fd1e0d12809ba10d77755b16b5457e6b221bd3689a48801748b241b53ef73841761cd5643b08372db88203be426e150d7440df61346bb05c0a017270e4b#npm:4.4.4"],
             ["react-test-renderer", "virtual:12c93fd1e0d12809ba10d77755b16b5457e6b221bd3689a48801748b241b53ef73841761cd5643b08372db88203be426e150d7440df61346bb05c0a017270e4b#npm:16.8.6"],
             ["release-it", "npm:12.6.3"],
-            ["typescript", "patch:typescript@npm%3A3.9.10#builtin<compat/typescript>::version=3.9.10&hash=8133ad"]
+            ["typescript", "patch:typescript@npm%3A2.9.2#builtin<compat/typescript>::version=2.9.2&hash=8133ad"]
           ],
           "linkType": "SOFT",
         }]
@@ -15922,10 +15922,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["typescript", [
-        ["patch:typescript@npm%3A3.9.10#builtin<compat/typescript>::version=3.9.10&hash=8133ad", {
-          "packageLocation": "./.yarn/cache/typescript-patch-7c33e5c8a5-744dab471a.zip/node_modules/typescript/",
+        ["patch:typescript@npm%3A2.9.2#builtin<compat/typescript>::version=2.9.2&hash=8133ad", {
+          "packageLocation": "./.yarn/cache/typescript-patch-3932b82a7c-3391089abb.zip/node_modules/typescript/",
           "packageDependencies": [
-            ["typescript", "patch:typescript@npm%3A3.9.10#builtin<compat/typescript>::version=3.9.10&hash=8133ad"]
+            ["typescript", "patch:typescript@npm%3A2.9.2#builtin<compat/typescript>::version=2.9.2&hash=8133ad"]
           ],
           "linkType": "HARD",
         }]

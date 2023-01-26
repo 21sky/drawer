@@ -71,7 +71,7 @@
     "react-navigation": "^4.0.7",
     "react-test-renderer": "16.8.6",
     "release-it": "^12.3.6",
-    "typescript": "^3.4.5"
+    "typescript": "~2.9.2"
   },
   "peerDependencies": {
     "react": "*",
